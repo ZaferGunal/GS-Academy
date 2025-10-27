@@ -1,4 +1,4 @@
-# GS Akademi
+# GSR Akademi
 
 
 ## 📌 Overview  
@@ -28,4 +28,5 @@
 
 
 ## Our Mission
-At **GS Akademi**, we believe that learning should be **fun, interactive, and accessible**. Our aim is to provide young learners with the tools to explore new skills and build a solid foundation in STEM.
+At **GS Akademi**, we believe that learning should be **fun, interactive, and accessible**. Our aim is to provide young learners with the tools to explore new skills and build a solid foundation in STEM.ü
+Beyond every robot we produce, we are touching people's hearts, igniting the spark of curiosity, and nurturing bright minds under the guidance of science.
