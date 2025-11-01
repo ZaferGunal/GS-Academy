@@ -1,9 +1,9 @@
-# GSR Akademi
+# GS Academy
 
 
 ## 📌 Overview  
 
-**"GS Akademi is a desktop platform designed for elementary and middle school students to explore chess, programming, graphic design, and Arduino. Along with our robotics team, we created and developed engaging video courses that teach STEM, design, and chess—particularly for students we can't reach in person."**
+**"GS Academy is a desktop platform designed for elementary and middle school students to explore chess, programming, graphic design, and Arduino. Along with our robotics team, we created and developed engaging video courses that teach STEM, design, and chess—particularly for students we can't reach in person."**
 
 
 ## 🚀 Features  
