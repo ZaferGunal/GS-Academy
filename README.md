@@ -27,6 +27,14 @@
 </p>
 
 
+## Recognitions & Recommendations
+
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/e0f5a49d-bf76-4782-8f5c-b94ff9050a6a" alt="Recommendation Letter" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="300" src="https://github.com/user-attachments/assets/eae71ee5-3126-4768-b64c-ffc46a137369" alt="Reference Letter" />
+</p>
+
 ## Our Mission
 At **GS Akademi**, we believe that learning should be **fun, interactive, and accessible**. Our aim is to provide young learners with the tools to explore new skills and build a solid foundation in STEM.
 Beyond every robot we produce, we are touching people's hearts, igniting the spark of curiosity, and nurturing bright minds under the guidance of science.
